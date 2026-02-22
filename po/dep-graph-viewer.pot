@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: dep-graph-viewer 0.1.0\n"
+"Project-Id-Version: dep-graph-viewer\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 07:09+0100\n"
+"POT-Creation-Date: 2026-02-22 17:04+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,72 +17,92 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/dep_graph_viewer/main.py:106 src/dep_graph_viewer/main.py:114
-#: src/dep_graph_viewer/main.py:375
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:106
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:114
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:375
+#: src/dep_graph_viewer/main.py:107 src/dep_graph_viewer/main.py:115
+#: src/dep_graph_viewer/main.py:376
 msgid "Dep Graph Viewer"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:119
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:119
+#: src/dep_graph_viewer/main.py:120
 msgid "Package name..."
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:124
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:124
+#: src/dep_graph_viewer/main.py:125
 msgid "Show dependencies"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:128
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:128
+#: src/dep_graph_viewer/main.py:129
 msgid "Reverse"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:128
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:128
+#: src/dep_graph_viewer/main.py:129
 msgid "Show reverse dependencies"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:132
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:132
+#: src/dep_graph_viewer/main.py:133
 msgid "Circular"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:132
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:132
+#: src/dep_graph_viewer/main.py:133
 msgid "Find circular dependencies"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:139 src/dep_graph_viewer/main.py:331
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:139
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:331
+#: src/dep_graph_viewer/main.py:140 src/dep_graph_viewer/main.py:332
 msgid "Settings"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:140
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:140
+#: src/dep_graph_viewer/main.py:141
 msgid "Copy Debug Info"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:141
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:141
+#: src/dep_graph_viewer/main.py:142
 msgid "Keyboard Shortcuts"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:142
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:142
+#: src/dep_graph_viewer/main.py:143
 msgid "About Dep Graph Viewer"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:161
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:161
+#: src/dep_graph_viewer/main.py:162
 msgid "No package selected"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:162
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:162
+#: src/dep_graph_viewer/main.py:163
 msgid "Enter a package name to view its dependency tree."
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:173
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:173
+#: src/dep_graph_viewer/main.py:174
 msgid "Ready"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:188
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:188
+#: src/dep_graph_viewer/main.py:189
 msgid "Welcome"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:194
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:194
+#: src/dep_graph_viewer/main.py:195
 msgid "Welcome to Dep Graph Viewer"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:195
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:195
+#: src/dep_graph_viewer/main.py:196
 msgid ""
 "Explore package dependency trees.\n"
 "\n"
@@ -93,82 +113,100 @@ msgid ""
 "✓ Export dependency graph"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:202
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:202
+#: src/dep_graph_viewer/main.py:203
 msgid "Get Started"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:228
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:228
+#: src/dep_graph_viewer/main.py:229
 #, python-format
 msgid "Loading dependencies for %s..."
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:233
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:233
+#: src/dep_graph_viewer/main.py:234
 #, python-format
 msgid "Dependencies of %s"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:244
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:244
+#: src/dep_graph_viewer/main.py:245
 #, python-format
 msgid "%(count)d packages"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:252
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:252
+#: src/dep_graph_viewer/main.py:253
 #, python-format
 msgid "%(count)d dependencies"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:256
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:256
+#: src/dep_graph_viewer/main.py:257
 #, python-format
 msgid "%(pkg)s: %(count)d dependencies"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:262
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:262
+#: src/dep_graph_viewer/main.py:263
 msgid "Loading reverse dependencies..."
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:267
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:267
+#: src/dep_graph_viewer/main.py:268
 #, python-format
 msgid "Reverse dependencies of %s"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:273
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:273
+#: src/dep_graph_viewer/main.py:274
 msgid "Checking for circular dependencies..."
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:289
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:289
+#: src/dep_graph_viewer/main.py:290
 msgid "No circular dependencies found"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:300
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:300
+#: src/dep_graph_viewer/main.py:301
 #, python-format
 msgid "%(count)d circular dependencies found"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:334
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:334
+#: src/dep_graph_viewer/main.py:335
 msgid "Graph"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:336
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:336
+#: src/dep_graph_viewer/main.py:337
 msgid "Maximum depth"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:356
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:356
+#: src/dep_graph_viewer/main.py:357
 msgid "Debug info copied"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:362
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:362
+#: src/dep_graph_viewer/main.py:363
 msgid "General"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:364
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:364
+#: src/dep_graph_viewer/main.py:365
 msgid "Quit"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:365
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:365
+#: src/dep_graph_viewer/main.py:366
 msgid "Keyboard shortcuts"
 msgstr ""
 
-#: src/dep_graph_viewer/main.py:382
+#: build/dep-graph-viewer_0.1.0_all/usr/lib/python3/dist-packages/dep_graph_viewer/main.py:382
+#: src/dep_graph_viewer/main.py:383
 msgid ""
 "Visualize dependency trees for .deb packages. Find circular dependencies."
 msgstr ""
