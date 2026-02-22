@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dep-graph-viewer"
-version = "0.1.1"
+version = "0.1.2"
 description = "GTK4 dependency graph viewer for .deb packages"
 requires-python = ">=3.10"
 license = "GPL-3.0-or-later"
