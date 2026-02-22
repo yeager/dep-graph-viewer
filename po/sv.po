@@ -1,0 +1,185 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the dep-graph-viewer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: dep-graph-viewer 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 07:09+0100\n"
+"PO-Revision-Date: 2026-02-22 07:13+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305196/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/dep_graph_viewer/main.py:106 src/dep_graph_viewer/main.py:114
+#: src/dep_graph_viewer/main.py:375
+msgid "Dep Graph Viewer"
+msgstr "Dep Graph Viewer"
+
+#: src/dep_graph_viewer/main.py:119
+msgid "Package name..."
+msgstr "Paketnamn..."
+
+#: src/dep_graph_viewer/main.py:124
+msgid "Show dependencies"
+msgstr "Visa beroenden"
+
+#: src/dep_graph_viewer/main.py:128
+msgid "Reverse"
+msgstr "Omvända"
+
+#: src/dep_graph_viewer/main.py:128
+msgid "Show reverse dependencies"
+msgstr "Visa omvända beroenden"
+
+#: src/dep_graph_viewer/main.py:132
+msgid "Circular"
+msgstr "Cirkulära"
+
+#: src/dep_graph_viewer/main.py:132
+msgid "Find circular dependencies"
+msgstr "Hitta cirkulära beroenden"
+
+#: src/dep_graph_viewer/main.py:139 src/dep_graph_viewer/main.py:331
+msgid "Settings"
+msgstr "Inställningar"
+
+#: src/dep_graph_viewer/main.py:140
+msgid "Copy Debug Info"
+msgstr "Kopiera felsökningsinformation"
+
+#: src/dep_graph_viewer/main.py:141
+msgid "Keyboard Shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: src/dep_graph_viewer/main.py:142
+msgid "About Dep Graph Viewer"
+msgstr "Om Dep Graph Viewer"
+
+#: src/dep_graph_viewer/main.py:161
+msgid "No package selected"
+msgstr "Inget paket valt"
+
+#: src/dep_graph_viewer/main.py:162
+msgid "Enter a package name to view its dependency tree."
+msgstr "Ange ett paketnamn för att visa dess beroendeträd."
+
+#: src/dep_graph_viewer/main.py:173
+msgid "Ready"
+msgstr "Redo"
+
+#: src/dep_graph_viewer/main.py:188
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: src/dep_graph_viewer/main.py:194
+msgid "Welcome to Dep Graph Viewer"
+msgstr "Välkommen till Dep Graph Viewer"
+
+#: src/dep_graph_viewer/main.py:195
+msgid ""
+"Explore package dependency trees.\n"
+"\n"
+"✓ Visualize .deb package dependencies\n"
+"✓ Detect circular dependencies\n"
+"✓ Search and filter packages\n"
+"✓ Reverse dependency lookup\n"
+"✓ Export dependency graph"
+msgstr ""
+"Utforska paketberoendeträd.\n"
+"\n"
+"✓ Visualisera .deb-paketberoenden\n"
+"✓ Upptäck cirkulära beroenden\n"
+"✓ Sök och filtrera paket\n"
+"✓ Omvänd beroendekontroll\n"
+"✓ Exportera beroendegraf"
+
+#: src/dep_graph_viewer/main.py:202
+msgid "Get Started"
+msgstr "Kom igång"
+
+#: src/dep_graph_viewer/main.py:228
+#, python-format
+msgid "Loading dependencies for %s..."
+msgstr "Läser in beroenden för %s..."
+
+#: src/dep_graph_viewer/main.py:233
+#, python-format
+msgid "Dependencies of %s"
+msgstr "Beroenden för %s"
+
+#: src/dep_graph_viewer/main.py:244
+#, python-format
+msgid "%(count)d packages"
+msgstr "%(count)d paket"
+
+#: src/dep_graph_viewer/main.py:252
+#, python-format
+msgid "%(count)d dependencies"
+msgstr "%(count)d beroenden"
+
+#: src/dep_graph_viewer/main.py:256
+#, python-format
+msgid "%(pkg)s: %(count)d dependencies"
+msgstr "%(pkg)s: %(count)d beroenden"
+
+#: src/dep_graph_viewer/main.py:262
+msgid "Loading reverse dependencies..."
+msgstr "Läser in omvända beroenden..."
+
+#: src/dep_graph_viewer/main.py:267
+#, python-format
+msgid "Reverse dependencies of %s"
+msgstr "Omvända beroenden för %s"
+
+#: src/dep_graph_viewer/main.py:273
+msgid "Checking for circular dependencies..."
+msgstr "Kontrollerar cirkulära beroenden..."
+
+#: src/dep_graph_viewer/main.py:289
+msgid "No circular dependencies found"
+msgstr "Inga cirkulära beroenden hittades"
+
+#: src/dep_graph_viewer/main.py:300
+#, python-format
+msgid "%(count)d circular dependencies found"
+msgstr "%(count)d cirkulära beroenden hittades"
+
+#: src/dep_graph_viewer/main.py:334
+msgid "Graph"
+msgstr "Diagram"
+
+#: src/dep_graph_viewer/main.py:336
+msgid "Maximum depth"
+msgstr "Maximalt djup"
+
+#: src/dep_graph_viewer/main.py:356
+msgid "Debug info copied"
+msgstr "Felsökningsinformation kopierades"
+
+#: src/dep_graph_viewer/main.py:362
+msgid "General"
+msgstr "Allmänt"
+
+#: src/dep_graph_viewer/main.py:364
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/dep_graph_viewer/main.py:365
+msgid "Keyboard shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: src/dep_graph_viewer/main.py:382
+msgid ""
+"Visualize dependency trees for .deb packages. Find circular dependencies."
+msgstr "Visualisera beroendeträd för .deb-paket. Hitta cirkulära beroenden."

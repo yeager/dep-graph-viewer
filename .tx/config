@@ -1,7 +1,7 @@
 [main]
 host = https://www.transifex.com
 
-[o:danielnylander:p:dep-graph-viewer:r:dep-graph-viewer-pot]
+[o:danielnylander:p:dep-graph-viewer:r:dep_graph_viewer]
 file_filter = po/<lang>.po
 source_file = po/dep-graph-viewer.pot
 source_lang = en
