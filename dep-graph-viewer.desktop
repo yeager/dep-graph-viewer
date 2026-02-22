@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=dep-graph-viewer
+Comment=GTK4 dependency graph viewer for .deb packages
+Exec=dep-graph-viewer
+Icon=applications-other-symbolic
+Terminal=false
+Categories=Development;
