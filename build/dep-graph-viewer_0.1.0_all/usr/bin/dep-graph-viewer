@@ -1,0 +1,3 @@
+#!/usr/bin/env python3
+from dep_graph_viewer.main import main
+main()
