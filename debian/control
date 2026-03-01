@@ -1,0 +1,21 @@
+Source: dep-graph-viewer
+Section: devel
+Priority: optional
+Maintainer: Daniel Nylander <daniel@danielnylander.se>
+Build-Depends: debhelper-compat (= 13),
+               dh-python,
+               python3-all,
+               python3-setuptools,
+               pybuild-plugin-pyproject
+Standards-Version: 4.7.0
+Homepage: https://github.com/yeager/dep-graph-viewer
+Vcs-Git: https://github.com/yeager/dep-graph-viewer.git
+Vcs-Browser: https://github.com/yeager/dep-graph-viewer
+
+Package: dep-graph-viewer
+Architecture: all
+Depends: ${python3:Depends}, ${misc:Depends}, python3-gi, gir1.2-gtk-4.0, gir1.2-adw-1
+Description: GTK4 dependency graph viewer for .deb packages
+ A GTK4/Adwaita application that visualizes dependency graphs
+ for Debian packages, helping maintainers understand complex
+ package relationships.

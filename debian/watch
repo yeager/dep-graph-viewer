@@ -1,0 +1,3 @@
+version=4
+opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/dep-graph-viewer-$1\.tar\.gz/ \
+  https://github.com/yeager/dep-graph-viewer/tags .*/v?(\d[\d.]+)\.tar\.gz
